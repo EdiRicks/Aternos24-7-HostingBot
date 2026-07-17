@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me"
+    "ip": "OriginMinecraft.aternos.me"
     "port": 50812,
     "version": "",
     "try-creative": false
